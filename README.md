@@ -18,4 +18,4 @@ Windows tray app that keeps your **system output (speaker/headphone)** volume fi
 ---
 
 ## Icon Credit
-Icon: **“Loudspeaker speaker device”** by [Pixel Perfect](https://icon-icons.com/users/YTrIwbAe29rzXQQqEiJGs/icon-sets/) on [icon-icons.com](https://icon-icons.com/icon/loudspeaker-speaker-device/186844), used under the [Free icon-icons license (attribution required)](https://icon-icons.com/license).
+Icon: **“Loudspeaker speaker device”** by [Pixel Perfect](https://icon-icons.com/users/YTrIwbAe29rzXQQqEiJGs/icon-sets/) on [icon-icons.com](https://icon-icons.com/icon/loudspeaker-speaker-device/186844), used under the [Free icon-icons license](https://icon-icons.com/license).
