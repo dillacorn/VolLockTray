@@ -14,3 +14,9 @@ Windows tray app that keeps your **system output (speaker/headphone)** volume fi
 - Lightweight single EXE. No dependencies. No telemetry. No log files.
 - Uses Windows Core Audio APIs (`IAudioEndpointVolume`).
 - [NirCmd](https://www.nirsoft.net/utils/nircmd.html) NOT required — this is a standalone application developed by me!
+
+---
+
+## Icon Credit
+Icon: **“Loudspeaker speaker device”** by [Pixel Perfect](https://icon-icons.com/users/YTrIwbAe29rzXQQqEiJGs/icon-sets/) on [icon-icons.com](https://icon-icons.com/icon/loudspeaker-speaker-device/186844), used under the [Free icon-icons license (attribution required)](https://icon-icons.com/license).  
+Modification: converted to `.ico` (no design changes).
