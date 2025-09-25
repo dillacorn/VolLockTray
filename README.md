@@ -24,3 +24,7 @@ Icon: **“Audio speakers Icon”** by [Papirus Dev Team](https://www.iconarchiv
 
 Want to lock your mic volume instead?
 - Check out [MicLockTray](https://github.com/dillacorn/MicLockTray)
+
+
+Need a Linux 🐧 solution?
+- Check out my script [miclock.sh](https://github.com/dillacorn/arch-hypr-dots/blob/main/config/hypr/scripts/miclock.sh)
