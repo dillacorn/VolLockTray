@@ -19,3 +19,8 @@ Windows tray app that keeps your **system output (speaker/headphone)** volume fi
 
 ## Icon Credit
 Icon: **“Audio speakers Icon”** by [Papirus Dev Team](https://www.iconarchive.com/artist/papirus-team.html) on [iconarchive.com](https://www.iconarchive.com/show/papirus-devices-icons-by-papirus-team/audio-speakers-icon.html)
+
+---
+
+Want to lock your mic volume instead?
+- Check out [MicLockTray](https://github.com/dillacorn/MicLockTray)
